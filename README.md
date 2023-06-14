@@ -15,8 +15,3 @@ Com cores vibrantes e detalhamento de informação.
 CSS<br>
 JavaScript<br>
 Bootstrap</p>
-
-<h1>Link para a Visualização</h1>
-
-<a href="">Clique Aqui
-
